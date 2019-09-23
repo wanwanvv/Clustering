@@ -1,0 +1,3 @@
+http://cs.uef.fi/sipu/datasets/
+http://cs.uef.fi/mopsi/data/
+https://people.sissa.it/~laio/Research/Res_clustering.php
